@@ -1,0 +1,3 @@
+termcolor
+urllib3
+pandas
